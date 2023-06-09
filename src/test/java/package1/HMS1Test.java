@@ -6,8 +6,5 @@ public class HMS1Test {
 @Test
 	public void HMS1() {
 		System.out.println("HMS1");
-		//hello
-		//hi
-		//whats up
 	}
 }
