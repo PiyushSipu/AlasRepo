@@ -7,4 +7,5 @@ public class HMS1Test {
 	public void HMS1() {
 		System.out.println("HMS1");
 	}
+	//Hello
 }
